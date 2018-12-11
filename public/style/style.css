@@ -2,3 +2,34 @@
 	height: 50px;
 	width: 50px;
 }
+
+#displayImg {
+  height: 200px;
+  width: auto;
+  position: relative;
+  display: inline-block;
+  margin: 25px;
+}
+
+#weatherinput {
+	width: 50vw;
+	height: 200px;
+}
+
+#summary {
+	width: 500px;
+}
+
+#images {
+  height: 30vh;
+  display: block;
+  position: relative;
+  left: 0%;
+  margin: auto;
+  font: 4px;
+  cursor: pointer;
+}
+
+#gallery {
+	width: 100vw;
+}
